@@ -1,5 +1,6 @@
 ## UT
 - Clone this repository
+- Download CodeBookUAS [here](https://bit.ly/codeBookUAS)
 - Find BookServiceTest.java in 71210781_UT directory
 - Copy that file to \books\src\test\java\uas\service\
 - Then run test ```mvn test```
