@@ -1,3 +1,9 @@
+## UT
+- Clone this repository
+- Find BookServiceTest.java in 71210781_UT directory
+- Copy that file to \books\src\test\java\uas\service\
+- Then run test ```mvn test```
+
 ## UAT
 - Clone this repository
 - Change dir to 71210781_UAT
